@@ -27,15 +27,6 @@ Here are some ideas to get you started:
   <img src="https://github.com/molcham/molcham/blob/output/github-contribution-grid-snake.svg">
 </div>
 
-![snake gif](https://raw.githubusercontent.com/molcham/molcham/output/github-contribution-grid-snake.svg)
-
-
-<picture>
-  <img
-    alt="github contribution grid snake animation"
-    src="https://raw.githubusercontent.com/molcham/molcham/output/github-contribution-grid-snake.svg"
-  />
-</picture>
 
 
 
