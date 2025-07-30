@@ -23,6 +23,7 @@ jobs:
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
           branch: master
+          force: true
           directory: ./github/assets
           target_file: github-contribution-grid-snake.svg
           message: 'feat: update github contribution grid snake'
