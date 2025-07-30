@@ -18,7 +18,7 @@ jobs:
         with:
           name: github-contribution-grid-snake
           path: ./github/assets/github-contribution-grid-snake.svg
-      - uses: actions/commit-push@v0.6.1
+      - uses: ad-m/github-push-action@v0.6.0
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
           branch: master
