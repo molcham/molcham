@@ -1,44 +1,26 @@
-# 커밋 먹는 뱀 그래프 생성을 위한 GitHub Action🐍
-
 name: Generate Snake
-
-# Action이 언제 구동될지 결정
 
 on:
   schedule:
-    # 6시간마다 한 번(수정 가능)
-    - cron: "0 */6 * * *"
-
-  # 자동으로 Action이 실행되도록 함
+    - cron: "0 */12 * * *"
   workflow_dispatch:
-
-  push:
-    branches:
-    - master
-    
 
 jobs:
   generate:
     runs-on: ubuntu-latest
-    timeout-minutes: 10
-    
     steps:
-      - name: generate github-contribution-grid-snake.svg
+      - uses: actions/checkout@v3
 
-      # 뱀 생성
-      - uses: Platane/snk@svg-only@v3
-        id: snake-gif
+      - name: Generate snake SVG
+        uses: Platane/snk@v3
         with:
           github_user_name: molcham
-          # output branch에 gif, svg를 각각 생성
-          gif_out_path: dist/github-contribution-grid-snake.gif
           svg_out_path: dist/github-contribution-grid-snake.svg
 
-      - name: push github-contribution-grid-snake.svg to the output branch
-        uses: crazy-max/ghaction-github-pages@v3.1.0
+      - name: Deploy to output branch
+        uses: crazy-max/ghaction-github-pages@v2.5.0
         with:
           target_branch: output
           build_dir: dist
-          force: true
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
