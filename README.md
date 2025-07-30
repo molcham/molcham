@@ -23,4 +23,4 @@ Here are some ideas to get you started:
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=sonchaemin89)](https://solved.ac/sonchaemin89/)
 
-![snake gif](https://raw.githubusercontent.com/molcham/molcham/main/github/assets/github-contribution-grid-snake.gif)
+![snake gif](https://github.com/molcham/molcham/blob/output/github-contribution-grid-snake.svg)
