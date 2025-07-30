@@ -29,3 +29,6 @@ Here are some ideas to get you started:
 
 ![snake gif](https://raw.githubusercontent.com/molcham/molcham/output/github-contribution-grid-snake.svg)
 
+![snake gif](https://molcham.github.io/molcham/github-contribution-grid-snake.svg)
+
+
