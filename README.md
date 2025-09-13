@@ -47,9 +47,11 @@ Here are some ideas to get you started:
 | 기간 | 프로젝트 | 기술 | 수상 | 바로보기 |
 |---|---|---|---|---|
 | 2025.06 ~ 2025.07 | **HaruDew (하루뒤)** <br/> 감정 분석 일기 서비스 | Nest.js, TypeScript, MySQL, TypeORM, React, Zustand, TailwindCSS, RAG(Qdrant, Neo4j) |  | [배포사이트](https://harudew.site) / [GitHub](https://github.com/B1A4-NMM) |
-| 2025.05 ~ 2025.06 | **PintOS** <br/> C 기반 경량 운영체제 구현 프로젝트 | C, PintOS, OS Thread & VM |  | [Thread~UserProgram](https://github.com/molcham/pintos-lab) / [Virtual Memory](https://github.com/krafton-jungle-307-week12-team9/pintos-vm) / [개발 회고](https://checkered-trick-560.notion.site/PintOS-246965fbd35d80f68daed5bc0e6fe0ac?source=copy_link) |
+| 2025.05 ~ 2025.06 | **PintOS** <br/> C 기반 경량 운영체제 구현 프로젝트 | C, PintOS, OS Thread & VM |  | [Thread~UserProgram](https://github.com/molcham/pintos-lab) / [Virtual Memory](https://github.com/krafton-jungle-307-week12-team9/pintos-vm) |
 | 2025.01 ~ 2025.02 | **만수무강 (MSMG)** <br/> 노인을 위한 모바일 운동 앱 | TypeScript, Express, Prisma, MySQL, AWS(EC2, RDS, S3), Nginx |  | [GitHub](https://github.com/UMC-MSMG/Backend) |
-| [YYYY.MM ~ YYYY.MM] | **[프로젝트명]** | [사용 기술] | [수상/선정 여부] | [👉 바로가기](https://github.com/여기에_링크) |
+| 2024.07 ~ 2024.08 | **조각집** <br/>CodeitBoost 추억 게시판 구현 프로젝트 | JavaScript,React,CSS,HTML | 최우수상 |[GitHub](https://github.com/CodeitBoost-Demo-TeamB/codeit-teamb-client) |
+| 2024.01 ~ 2024.02 | **TimeCapsule** <br/> | Express,MySQL,AWS,React,CSS,JavaScript | 최우수상 |[GitHub](https://github.com/orgs/2023-Solux-FinalProj/repositories) |
+
 
 <br/>
 
