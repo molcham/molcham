@@ -50,7 +50,7 @@ Here are some ideas to get you started:
 | 2025.05 ~ 2025.06 | **PintOS** <br/> C 기반 경량 운영체제 구현 프로젝트 | C, AWS(EC2) | &nbsp; | [Thread~UserProgram](https://github.com/molcham/pintos-lab) / [Virtual Memory](https://github.com/krafton-jungle-307-week12-team9/pintos-vm) |
 | 2025.01 ~ 2025.02 | **만수무강 (MSMG)** <br/> 노인을 위한 모바일 운동 앱 | TypeScript, Express, Prisma, MySQL, AWS(EC2, RDS, S3), Nginx | &nbsp; | [GitHub](https://github.com/UMC-MSMG/Backend) |
 | 2024.07 ~ 2024.08 | **조각집** <br/> CodeitBoost 추억 게시판 프로젝트 | JavaScript, React, CSS, HTML | 최우수상 | [GitHub](https://github.com/CodeitBoost-Demo-TeamB/codeit-teamb-client) |
-| 2024.01 ~ 2024.02 | **TimeCapsule** <br/> 온라인 타임캡슐 서비스 | Express, MySQL, AWS, React, CSS, JavaScript | 최우수상 | [GitHub](https://github.com/orgs/2023-Solux-FinalProj/repositories) |
+| 2024.01 ~ 2024.02 | **TimeCapsule** <br/> 온라인 타임캡슐 서비스 | Express, MySQL, AWS, React, CSS, JavaScript | 최우수상 | [GitHub](https://github.com/2023-Solux-FinalProj/TimeCapsule-Server) |
 
 
 <br/>
