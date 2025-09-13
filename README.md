@@ -30,6 +30,7 @@ Here are some ideas to get you started:
 <br/>
 <br/>
 
+<!--
 ### 📚 Studying
 <div>
   <img src="https://img.shields.io/badge/javascript-F7DF1E?style=flat-square&logo=javascript&logoColor=black">&nbsp;
@@ -38,6 +39,8 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" />
   <!-- 필요한 기술스택은 자유롭게 추가/삭제 -->
 </div>
+
+-->
 
 <br/>
 <br/>
