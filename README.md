@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 
 <!-- 상단 배너 (원하면 이미지 교체 가능) -->
 <!-- ![banner](https://capsule-render.vercel.app/api?type=venom&height=200&text=Hi👋🏻%20I'm%20[이름을 입력하세요]&fontSize=70&color=0:ffe87c,100:f5f7c8&stroke=000000) -->
-
+<!--
 ## 
 > 🏫 [학교명] [전공]  
 > <br/>
@@ -40,10 +40,10 @@ Here are some ideas to get you started:
   <!-- 필요한 기술스택은 자유롭게 추가/삭제 -->
 </div>
 
--->
+<br/>
+<br/>
 
-<br/>
-<br/>
+-->
 
 ### 💻 My projects 
 | 기간 | 프로젝트 | 기술 | 수상 | 바로보기 |
