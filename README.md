@@ -43,9 +43,7 @@ Here are some ideas to get you started:
 <br/>
 <br/>
 
--->
-
-### 💻 My projects 
+## My projects 
 | 기간 | 프로젝트 | 기술 | 수상 | 바로보기 |
 |---|---|---|---|---|
 | [YYYY.MM ~ YYYY.MM] | **[프로젝트명]** | [React, TypeScript 등 기술스택 입력] | [수상내역] | [👉 바로가기](https://github.com/여기에_링크) |
@@ -54,7 +52,7 @@ Here are some ideas to get you started:
 
 <br/>
 
-### 🛖 I'm in ..
+## 🛖 I'm in ..
 | 기간 | 소속/역할 |
 |---|---|
 | [YYYY.MM ~ 현재] | [동아리/단체명] [역할] |
@@ -63,7 +61,7 @@ Here are some ideas to get you started:
 
 <br/>
 
-### 🔥 My experience
+## 🔥 My experience
 - 🔥 [해커톤/공모전/네트워킹 등 참여/수상 경험 입력]
 - 🏆 [수상 경험 입력]
 - ✨ [특별 경험 입력]
@@ -72,7 +70,7 @@ Here are some ideas to get you started:
 <br/>
 
 <!-- 깃허브 통계 -->
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=[깃허브ID입력])](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=molcham)](https://github.com/anuraghazra/github-readme-stats)
 
 <br/>
 
