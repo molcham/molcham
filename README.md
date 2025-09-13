@@ -15,6 +15,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+<div align="center">
+  <img src="https://github.com/molcham/molcham/blob/output/github-contribution-grid-snake.svg">
+</div>
+
 <!-- 상단 배너 (원하면 이미지 교체 가능) -->
 <!-- ![banner](https://capsule-render.vercel.app/api?type=venom&height=200&text=Hi👋🏻%20I'm%20[이름을 입력하세요]&fontSize=70&color=0:ffe87c,100:f5f7c8&stroke=000000) -->
 
@@ -103,11 +107,11 @@ Here are some ideas to get you started:
 <!--
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=sonchaemin89)](https://solved.ac/sonchaemin89/)
 -->
-
+<!--
 <div align="center">
   <img src="https://github.com/molcham/molcham/blob/output/github-contribution-grid-snake.svg">
 </div>
-
+-->
 
 
 
