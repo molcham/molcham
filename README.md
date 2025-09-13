@@ -46,44 +46,51 @@ Here are some ideas to get you started:
 ## My projects 
 | 기간 | 프로젝트 | 기술 | 수상 | 바로보기 |
 |---|---|---|---|---|
-| [YYYY.MM ~ YYYY.MM] | **[프로젝트명]** | [React, TypeScript 등 기술스택 입력] | [수상내역] | [👉 바로가기](https://github.com/여기에_링크) |
-| [YYYY.MM ~ 진행 중] | **[프로젝트명]** | [Next.js, TS 등] |  | [👉 바로가기](https://github.com/여기에_링크) |
+| 2025.06 ~ 2025.07 | **HaruDew (하루뒤)** <br/> 감정 분석 일기 서비스 | Nest.js, TypeScript, MySQL, TypeORM, React, Zustand, TailwindCSS, RAG(Qdrant, Neo4j) |  | [배포사이트](https://harudew.site) / [GitHub](https://github.com/B1A4-NMM) |
+| 2025.05 ~ 2025.06 | **PintOS** <br/> C 기반 경량 운영체제 구현 프로젝트 | C, PintOS, OS Thread & VM |  | [Thread~UserProgram](https://github.com/molcham/pintos-lab) / [Virtual Memory](https://github.com/krafton-jungle-307-week12-team9/pintos-vm) / [개발 회고](https://checkered-trick-560.notion.site/PintOS-246965fbd35d80f68daed5bc0e6fe0ac?source=copy_link) |
+| 2025.01 ~ 2025.02 | **만수무강 (MSMG)** <br/> 노인을 위한 모바일 운동 앱 | TypeScript, Express, Prisma, MySQL, AWS(EC2, RDS, S3), Nginx |  | [GitHub](https://github.com/UMC-MSMG/Backend) |
 | [YYYY.MM ~ YYYY.MM] | **[프로젝트명]** | [사용 기술] | [수상/선정 여부] | [👉 바로가기](https://github.com/여기에_링크) |
 
 <br/>
 
-## 🛖 I'm in ..
+## I'm in ..
 | 기간 | 소속/역할 |
 |---|---|
-| [YYYY.MM ~ 현재] | [동아리/단체명] [역할] |
-| [YYYY.MM ~ YYYY.MM] | [소속명] [역할] |
-| [YYYY.MM ~ YYYY.MM] | [소속명] [역할] |
+| 2025.03 ~ 2025.08 | 크래프톤 정글 8기 |
+| 2024.09 ~ 2025.02 | UMC SMWU 7기 서버 파트 (Node.js) |
+| 2024.03 ~ 2024.08 | 코드잇 부스트 SMWU Frontend Boost 1기 수료 |
+| 2023.03 ~ 2024.02 | 숙명여자대학교 중앙 개발 동아리 SOLUX (Java 스터디 및 Node.js 서버 파트 참여) |
+
+
 
 <br/>
-
+<!--
 ## 🔥 My experience
 - 🔥 [해커톤/공모전/네트워킹 등 참여/수상 경험 입력]
 - 🏆 [수상 경험 입력]
-- ✨ [특별 경험 입력]
+- ✨ [특별 경험 입력] -->
 
 <br/>
 <br/>
 
-<!-- 깃허브 통계 -->
+<!-- 깃허브 통계 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=molcham)](https://github.com/anuraghazra/github-readme-stats)
-
+-->
 <br/>
 
 ### 🛠 Tech Stack
 <div>
-  <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=white"/>&nbsp;
-  <img src="https://img.shields.io/badge/Javascript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>&nbsp;
-  <img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=HTML5&logoColor=white"/>&nbsp;
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white"/>&nbsp;
-  <img src="https://img.shields.io/badge/Typescript-3178C6?style=flat-square&logo=typescript&logoColor=white"/>&nbsp;
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/>&nbsp;
-  <!-- 필요한 기술스택 추가/삭제 -->
+  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white"/>&nbsp;
+  <img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white"/>&nbsp;
+  <img src="https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white"/>&nbsp;
+  <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black"/>&nbsp;
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/>&nbsp;
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>&nbsp;
+  <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=openjdk&logoColor=white"/>&nbsp;
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>&nbsp;
+  <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black"/>&nbsp;
 </div>
+
 
 <div>
   <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"/>&nbsp;
