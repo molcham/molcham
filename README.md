@@ -41,16 +41,6 @@ Here are some ideas to get you started:
 </div>
 
 <br/>
-<br/>
-
-## My projects 
-| 기간 | 프로젝트 | 기술 | 수상 | 바로보기 |
-|---|---|---|---|---|
-| 2025.06 ~ 2025.07 | **HaruDew (하루뒤)** <br/> 감정 분석 일기 서비스 | Nest.js, TypeScript, MySQL, TypeORM, React, Zustand, TailwindCSS, RAG(Qdrant, Neo4j) | &nbsp; | [배포사이트](https://harudew.site) / [GitHub](https://github.com/B1A4-NMM) |
-| 2025.05 ~ 2025.06 | **PintOS** <br/> C 기반 경량 운영체제 구현 프로젝트 | C, AWS(EC2) | &nbsp; | [Thread~UserProgram](https://github.com/molcham/pintos-lab) / [Virtual Memory](https://github.com/krafton-jungle-307-week12-team9/pintos-vm) |
-| 2025.01 ~ 2025.02 | **만수무강 (MSMG)** <br/> 노인을 위한 모바일 운동 앱 | TypeScript, Express, Prisma, MySQL, AWS(EC2, RDS, S3), Nginx | &nbsp; | [GitHub](https://github.com/UMC-MSMG/Backend) |
-| 2024.01 ~ 2024.02 | **TimeCapsule** <br/> 온라인 타임캡슐 서비스 | Express, MySQL, AWS, React, CSS, JavaScript | 최우수상 | [GitHub](https://github.com/2023-Solux-FinalProj/TimeCapsule-Server) |
-
 
 <br/>
 
@@ -63,6 +53,18 @@ Here are some ideas to get you started:
 | 2024.09 ~ 2025.02 | UMC SMWU 7기 서버 파트 (Node.js) |
 | 2024.03 ~ 2024.08 | 코드잇 부스트 SMWU Frontend Boost 1기 수료 |
 | 2023.03 ~ 2024.02 | 숙명여자대학교 중앙 개발 동아리 SOLUX (Java 스터디 및 Node.js 서버 파트 참여) |
+
+
+<br/>
+
+## My projects 
+| 기간 | 프로젝트 | 기술 | 수상 | 바로보기 |
+|---|---|---|---|---|
+| 2025.06 ~ 2025.07 | **HaruDew (하루뒤)** <br/> 감정 분석 일기 서비스 | Nest.js, TypeScript, MySQL, TypeORM, React, Zustand, TailwindCSS, RAG(Qdrant, Neo4j) | &nbsp; | [배포사이트](https://harudew.site) / [GitHub](https://github.com/B1A4-NMM) |
+| 2025.05 ~ 2025.06 | **PintOS** <br/> C 기반 경량 운영체제 구현 프로젝트 | C, AWS(EC2) | &nbsp; | [Thread~UserProgram](https://github.com/molcham/pintos-lab) / [Virtual Memory](https://github.com/krafton-jungle-307-week12-team9/pintos-vm) |
+| 2025.01 ~ 2025.02 | **만수무강 (MSMG)** <br/> 노인을 위한 모바일 운동 앱 | TypeScript, Express, Prisma, MySQL, AWS(EC2, RDS, S3), Nginx | &nbsp; | [GitHub](https://github.com/UMC-MSMG/Backend) |
+| 2024.01 ~ 2024.02 | **TimeCapsule** <br/> 온라인 타임캡슐 서비스 | Express, MySQL, AWS, React, CSS, JavaScript | 최우수상 | [GitHub](https://github.com/2023-Solux-FinalProj/TimeCapsule-Server) |
+
 
 
 
