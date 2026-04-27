@@ -57,6 +57,8 @@ Here are some ideas to get you started:
 ## I'm in ..
 | 기간 | 소속/역할 |
 |---|---|
+| 2026.02 ~ ing | 숙명인을 위한 커뮤니티 SNOROSE 백엔드 파트 (https://www.snorose.com/) |
+| 2026.01 ~ ing | 빅데이터 연합동아리 BOAZ 데이터 엔지니어링 26기 |
 | 2025.03 ~ 2025.08 | 크래프톤 정글 8기 |
 | 2024.09 ~ 2025.02 | UMC SMWU 7기 서버 파트 (Node.js) |
 | 2024.03 ~ 2024.08 | 코드잇 부스트 SMWU Frontend Boost 1기 수료 |
