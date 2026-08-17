@@ -1,48 +1,11 @@
-## Welcome🤜🏻⋆🤛🏻
-
+<!-- ## Welcome🤜🏻⋆🤛🏻 -->
 <!--
-**molcham/molcham** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 
 <div align="center">
   <img src="https://github.com/molcham/molcham/blob/output/github-contribution-grid-snake.svg">
 </div>
 
-<!-- 상단 배너 (원하면 이미지 교체 가능) -->
-<!-- ![banner](https://capsule-render.vercel.app/api?type=venom&height=200&text=Hi👋🏻%20I'm%20[이름을 입력하세요]&fontSize=70&color=0:ffe87c,100:f5f7c8&stroke=000000) -->
-<!--
-## 
-> 🏫 [학교명] [전공]  
-> <br/>
-> 🪄 [직무/포지션]
-
-<br/>
-<br/>
-
-<!--
-### 📚 Studying
-<div>
-  <img src="https://img.shields.io/badge/javascript-F7DF1E?style=flat-square&logo=javascript&logoColor=black">&nbsp;
-  <img src="https://img.shields.io/badge/Typescript-3178C6?style=flat-square&logo=typescript&logoColor=white"/>&nbsp;
-  <img src="https://img.shields.io/badge/react-61DAFB?style=flat-square&logo=react&logoColor=black">&nbsp;
-  <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" />
-  <!-- 필요한 기술스택은 자유롭게 추가/삭제 -->
-</div>
-
-<br/>
-
-<br/>
+-->
 
 ## I'm in ..
 | 기간 | 소속/역할 |
